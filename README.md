@@ -1,2 +1,4 @@
-# dom-git-event
-Clase inicial de GIT con DOM y js
+# Aprendiendo GIT y DOM
+-Primeros pasos en GIT.
+-DOM : Document Object Model.
+-Events and DOM.
